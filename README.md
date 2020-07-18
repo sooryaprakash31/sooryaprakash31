@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there! :wave:
 
 - :octocat: I'm a Student Programmer from Sri Venkateswara College of Engineering
 - :computer: I like to build stuff that make life easier
