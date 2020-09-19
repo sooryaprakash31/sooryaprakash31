@@ -5,6 +5,7 @@
 - :speech_balloon: Ask me about Programming, Software Development, UI Design and Automation
 - :mailbox: Reach me: [LinkedIn](https://www.linkedin.com/in/sooryaprakash31/) 
 - :heavy_check_mark: Available for Intern / Freelance Projects
+- ⚡ Spoiler: There's always a better solution
 <details>
   <summary>Know more about me!</summary>
   <br>
