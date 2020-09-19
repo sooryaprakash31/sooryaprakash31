@@ -3,7 +3,7 @@
 - :octocat: I'm a Student Programmer from Sri Venkateswara College of Engineering
 - :computer: I like to build stuff that make life easier
 - :speech_balloon: Ask me about Programming, Software Development, UI Design and Automation
-- :mailbox: Reach me: [LinkedIn](https://www.linkedin.com/in/sooryaprakash31/) | :computer: Hire me: [UpWork](https://www.upwork.com/o/profiles/users/~019df84cbc40f59723/)
+- :mailbox: Reach me: [LinkedIn](https://www.linkedin.com/in/sooryaprakash31/) 
 - :heavy_check_mark: Available for Intern / Freelance Projects
 <details>
   <summary>Know more about me!</summary>
