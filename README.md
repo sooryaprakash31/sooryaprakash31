@@ -1,15 +1,17 @@
 ### Hi there! :wave:
 
 - :octocat: I'm a Student Programmer from Sri Venkateswara College of Engineering
-- :computer: I like to build stuff that makes life easier
-- :speech_balloon: Ask me about Programming, Software Development, UI Design and Automation
-- :mailbox: Reach me:<b> [LinkedIn](https://www.linkedin.com/in/sooryaprakash31/)</b> 
+- :computer: I usually work on projects that make life easier
+- :speech_balloon: Ask me about Programming, Software Development, UI Design and Automation 
 - :heavy_check_mark: Available for Intern / Freelance Projects
--  [#100DaysOfCode](https://github.com/sooryaprakash31/100DaysOfCode)
-<details>
+- :seedling: <b>[#100DaysOfCode](https://github.com/sooryaprakash31/100DaysOfCode)</b>
+  
+<details align>
   <summary>Know more about me!</summary>
   <br>
-  I am a Motivated and Self-loving person who avidly wants to learn and thrive :nerd_face:. I constantly work to improve myself in the fields I love :man_technologist:. Multitasking, organizing and planning are some of my highlights :bulb:. I read about science often :milky_way:, love to binge-watch shows, write scripts and analyse films in my free time. 
-  
+<p align="center">I am a Motivated and Self-loving person who avidly wants to learn and thrive :nerd_face:. Multitasking, organizing and planning are some of my highlights :bulb:. I read about science often, love to binge-watch shows, write scripts and analyse films in my free time. :milky_way:
+</p>
 </details>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sooryaprakash31" alt="Views" /> </p> </br>
+
+
