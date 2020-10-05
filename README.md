@@ -14,9 +14,8 @@
 </details>
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sooryaprakash31" alt="Views" /> </p> </br>
-<footer align="center">
-<a href="https://www.linkedin.com/in/sooryaprakash31/"><img src="/assets/linkedin1.svg" width=22px height=22px alt="LinkedIn"></a>
-&nbsp;
-<a href="mailto:sooryaprakash.r31@gmail.com"><img src="/assets/email.svg" width=22px height=22px alt="Mail"></a>
-</footer>
+<p align="center">
+<a href="https://www.linkedin.com/in/sooryaprakash31/"><img src="/assets/linkedin1.svg" width=30px height=30px alt="LinkedIn"></a> &nbsp;
+<a href="mailto:sooryaprakash.r31@gmail.com"><img src="/assets/email.svg" width=30px height=30px alt="Mail"></a>
+</p>
 
