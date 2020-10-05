@@ -2,7 +2,7 @@
 
 - :octocat: I'm a Student Programmer from Sri Venkateswara College of Engineering
 - :computer: I usually work on projects that make life easier
-- :speech_balloon: Ask me about Programming, Software Development, UI Design and Automation 
+- :speech_balloon: Ask me about Programming, Software Development, UI Design or Automation 
 - :heavy_check_mark: Available for Intern / Freelance Projects
 - :seedling: <b>[#100DaysOfCode](https://github.com/sooryaprakash31/100DaysOfCode)</b>
   
